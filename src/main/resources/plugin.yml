@@ -1,0 +1,9 @@
+name: BanWave
+version: 1.0
+author: Mekvil
+main: me.mekvil.Banwave.Banwave
+description: Banwave plugin by @ssdt • github.com/Mekvil/Banwave/
+commands:
+  banwave:
+    description: "Commands for managing the banwave"
+    usage: "/banwave <add|remove|start|end>"
